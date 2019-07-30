@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Navigation to Equipment">a570cc801b0f33009dd9bb31dd4bcb92</button>
+        <button_table>alm_asset</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="UI Input Company">0d6f7bb31b3e33009dd9bb31dd4bcb27</destination_ui_parameter>
+        <source_field>company</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-07-29 20:07:00</sys_created_on>
+        <sys_id>481e50881b4f33009dd9bb31dd4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0d6f7bb31b3e33009dd9bb31dd4bcb27</sys_name>
+        <sys_package display_value="TPLs" source="x_scbgh_tpls">c888fa63db1af3005526c4c115961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPLs">c888fa63db1af3005526c4c115961930</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_481e50881b4f33009dd9bb31dd4bcb91</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-07-29 20:07:00</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>
