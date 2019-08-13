@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Jump to Devices">8c203cb8dbd377005526c4c1159619d1</button>
+        <button_table>core_company</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="device_tplnr_id">24ad2c38dbd377005526c4c115961959</destination_ui_parameter>
+        <source_field>u_sap_id</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-13 15:42:41</sys_created_on>
+        <sys_id>5e617cf8dbd377005526c4c115961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>24ad2c38dbd377005526c4c115961959</sys_name>
+        <sys_package display_value="TPLs" source="x_scbgh_tpls">c888fa63db1af3005526c4c115961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPLs">c888fa63db1af3005526c4c115961930</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_5e617cf8dbd377005526c4c115961994</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-13 15:42:41</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

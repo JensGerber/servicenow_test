@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="PDI Device List">7565ecb0dbd377005526c4c11596190c</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">d4ada838dbd377005526c4c1159619b7</icon>
+        <item_view display_value="Devices detail item view">d4ad2838dbd377005526c4c1159619a0</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>a0ad6c38dbd377005526c4c11596191a</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-13 15:26:11</sys_created_on>
+        <sys_id>6cad6c38dbd377005526c4c115961902</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="TPLs" source="x_scbgh_tpls">c888fa63db1af3005526c4c115961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPLs">c888fa63db1af3005526c4c115961930</sys_scope>
+        <sys_update_name>sys_sg_details_screen_6cad6c38dbd377005526c4c115961902</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-13 15:31:40</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

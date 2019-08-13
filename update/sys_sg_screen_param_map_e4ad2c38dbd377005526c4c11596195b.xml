@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="tplnr_id">dcd524f0dbd377005526c4c115961934</item_parameter>
+        <screen display_value="Devices">e0ad2c38dbd377005526c4c115961958</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-13 15:26:11</sys_created_on>
+        <sys_id>e4ad2c38dbd377005526c4c11596195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dcd524f0dbd377005526c4c115961934</sys_name>
+        <sys_package display_value="TPLs" source="x_scbgh_tpls">c888fa63db1af3005526c4c115961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPLs">c888fa63db1af3005526c4c115961930</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_e4ad2c38dbd377005526c4c11596195b</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-13 15:26:11</sys_updated_on>
+        <ui_parameter display_value="device_tplnr_id">24ad2c38dbd377005526c4c115961959</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

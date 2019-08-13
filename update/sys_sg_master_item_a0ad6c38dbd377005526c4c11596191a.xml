@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Devices item view">18ad2c38dbd377005526c4c1159619f6</item_view>
+        <name>Master Item</name>
+        <screen display_value="Devices">e0ad2c38dbd377005526c4c115961958</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-13 15:26:11</sys_created_on>
+        <sys_id>a0ad6c38dbd377005526c4c11596191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="TPLs" source="x_scbgh_tpls">c888fa63db1af3005526c4c115961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPLs">c888fa63db1af3005526c4c115961930</sys_scope>
+        <sys_update_name>sys_sg_master_item_a0ad6c38dbd377005526c4c11596191a</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-13 15:26:11</sys_updated_on>
+        <table>x_scbgh_test_asset_u_alm_asset</table>
+    </sys_sg_master_item>
+</record_update>

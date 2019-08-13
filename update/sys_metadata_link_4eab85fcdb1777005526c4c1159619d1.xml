@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5efe9e50db9337005526c4c115961972</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_related_list_relationship_entry">
+    <sys_ui_related_list_relationship_entry action="INSERT_OR_UPDATE">
+        <filter/>
+        <list_id display_value="Company - Asset" name="core_company" related_list="NULL" sys_domain="global" view="796460d90a0a0b8c00028dd3fef21891">2e09d3cd1ba223009dd9bb31dd4bcb3e</list_id>
+        <order_by/>
+        <position>2</position>
+        <related_list>REL:62dba1e31b07b7009dd9bb31dd4bcbf2</related_list>
+        <sys_class_name>sys_ui_related_list_relationship_entry</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-12 10:24:25</sys_created_on>
+        <sys_id>5efe9e50db9337005526c4c115961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_relationship display_value="Company to u_assets">62dba1e31b07b7009dd9bb31dd4bcbf2</sys_relationship>
+        <sys_ui_related_list display_value="Company - Asset" name="core_company" related_list="NULL" sys_domain="global" view="796460d90a0a0b8c00028dd3fef21891">2e09d3cd1ba223009dd9bb31dd4bcb3e</sys_ui_related_list>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-12 10:24:25</sys_updated_on>
+    </sys_ui_related_list_relationship_entry>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-13 17:37:22</sys_created_on>
+        <sys_id>4eab85fcdb1777005526c4c1159619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 12.08.2019 12:24:25</sys_name>
+        <sys_package display_value="TPLs" source="x_scbgh_tpls">c888fa63db1af3005526c4c115961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPLs">c888fa63db1af3005526c4c115961930</sys_scope>
+        <sys_update_name>sys_metadata_link_4eab85fcdb1777005526c4c1159619d1</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-13 17:37:22</sys_updated_on>
+        <tablename>sys_ui_related_list_relationship_entry</tablename>
+    </sys_metadata_link>
+</record_update>
